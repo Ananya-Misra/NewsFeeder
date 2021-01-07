@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="health">Health</string>
+    <string name="sports">Sports</string>
+    <string name="business">Business</string>
+    <string name="technology">Technology</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="choose_your_category">Choose Your Interest</string>
+    <string name="science">Science</string>
+    <string name="newsfeeder">NewsFeeder</string>
+
+</resources>
